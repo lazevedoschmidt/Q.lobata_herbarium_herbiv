@@ -1,5 +1,5 @@
 # Herbarium specimens reveal complex drivers of herbivory within and among years over more than a century
-Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Susan Mazer<sup>2</sup>, Emily K. Meineke<sup>1</sup>
+Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Susan J. Mazer<sup>2</sup>, Emily K. Meineke<sup>1</sup>
 
 Affiliations: \
 <sup>1</sup>Department of Entomology and Nematology, University of California Davis, Davis, CA 95616, USA \
