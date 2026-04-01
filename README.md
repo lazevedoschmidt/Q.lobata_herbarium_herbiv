@@ -1,4 +1,4 @@
-# A Century-Long Perspective of Climate-Driven Insect Herbivory
+# Herbarium specimens reveal complex drivers of herbivory within and among years over more than a century
 Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Susan Mazer<sup>2</sup>, Emily K. Meineke<sup>1</sup>
 
 Affiliations: \
